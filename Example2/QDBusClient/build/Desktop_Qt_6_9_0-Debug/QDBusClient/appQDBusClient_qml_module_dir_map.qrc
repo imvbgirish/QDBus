@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/QDBusClient">/home/girish-v-b/QDBus/Example2/QDBusClient/build/Desktop_Qt_6_9_0-Debug/QDBusClient</file>
+
+  </qresource>
+</RCC>

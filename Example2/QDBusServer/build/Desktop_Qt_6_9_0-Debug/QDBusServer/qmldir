@@ -1,0 +1,4 @@
+module QDBusServer
+typeinfo appQDBusServer.qmltypes
+prefer :/QDBusServer/
+

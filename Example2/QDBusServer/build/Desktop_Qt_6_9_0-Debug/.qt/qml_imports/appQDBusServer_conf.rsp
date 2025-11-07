@@ -1,0 +1,14 @@
+-rootPath
+/home/girish-v-b/QDBus/Example2/QDBusServer
+-cmake-output
+-output-file
+/home/girish-v-b/QDBus/Example2/QDBusServer/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appQDBusServer_conf.cmake
+-importPath
+/home/girish-v-b/QDBus/Example2/QDBusServer/build/Desktop_Qt_6_9_0-Debug/QDBusServer
+-importPath
+/home/girish-v-b/QDBus/Example2/QDBusServer/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/girish-v-b/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/girish-v-b/QDBus/Example2/QDBusServer/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_QDBusServer.qrc
+/home/girish-v-b/QDBus/Example2/QDBusServer/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appQDBusServer_raw_qml_0.qrc

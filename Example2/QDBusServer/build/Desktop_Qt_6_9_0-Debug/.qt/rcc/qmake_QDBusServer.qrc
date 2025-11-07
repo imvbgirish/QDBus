@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/QDBusServer">
+    <file alias="qmldir">/home/girish-v-b/QDBus/Example2/QDBusServer/build/Desktop_Qt_6_9_0-Debug/QDBusServer/qmldir</file>
+  </qresource>
+</RCC>
+

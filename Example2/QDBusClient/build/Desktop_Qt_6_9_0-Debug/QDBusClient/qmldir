@@ -1,0 +1,4 @@
+module QDBusClient
+typeinfo appQDBusClient.qmltypes
+prefer :/QDBusClient/
+

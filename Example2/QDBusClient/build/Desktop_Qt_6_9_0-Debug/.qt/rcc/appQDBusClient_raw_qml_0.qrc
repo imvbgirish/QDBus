@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/QDBusClient/">
+    <file alias="main.qml">/home/girish-v-b/QDBus/Example2/QDBusClient/main.qml</file>
+  </qresource>
+</RCC>
+
