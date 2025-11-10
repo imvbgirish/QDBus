@@ -1,0 +1,12 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                ],
+                "filepath": "/home/girish-v-b/QDBus/Example2/QDBusServer/main.qml"
+            }
+        ],
+        "moduleId": "QDBusServer(appQDBusServer)"
+    }
+]

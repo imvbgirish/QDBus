@@ -69,4 +69,5 @@ void HelloClient::onCallFinished(QDBusPendingCallWatcher *watcher)
 void HelloClient::onHelloReceived(const QString &message)
 {
     qDebug() << "Received D-Bus signal:" << message;
+    emit helloReceived(message);
 }

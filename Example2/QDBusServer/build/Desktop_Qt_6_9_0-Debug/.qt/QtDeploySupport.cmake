@@ -60,7 +60,6 @@ set(__QT_DEPLOY_QT_DEBUG_POSTFIX "")
 set(__qt_deploy_support_files
     "/home/girish-v-b/QDBus/Example2/QDBusServer/build/Desktop_Qt_6_9_0-Debug/.qt/QtDeployTargets.cmake"
     "/home/girish-v-b/Qt/6.9.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreDeploySupport.cmake"
-    "/home/girish-v-b/Qt/6.9.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlDeploySupport.cmake"
 )
 foreach(__qt_deploy_support_file IN LISTS __qt_deploy_support_files)
     include("${__qt_deploy_support_file}")

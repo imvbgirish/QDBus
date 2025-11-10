@@ -14,8 +14,11 @@ class HelloClient : public QObject
 public:
     explicit HelloClient(QObject *parent = nullptr);
 
-    void callSayHello(const QString &name);
-    bool connectToSignal();
+    Q_INVOKABLE void callSayHello(const QString &name);
+    Q_INVOKABLE bool connectToSignal();
+
+signals:
+    void helloReceived(const QString &message);
 
 private slots:
     void onHelloReceived(const QString &message);

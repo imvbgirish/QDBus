@@ -1,11 +1,17 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <QQmlContext>
+#include "helloclient.h"
 
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
 
+    // Register HelloClient as a QML type
+    qmlRegisterType<HelloClient>("QDBus", 1, 0, "HelloClient");
+
     QQmlApplicationEngine engine;
+
     const QUrl url(QStringLiteral("qrc:/QDBusClient/main.qml"));
     QObject::connect(
         &engine,
