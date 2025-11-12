@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 102,
                         "errorMessage": "Cannot retrieve a non-object type by ID: client",
                         "functionName": "onCompleted",
                         "line": 13
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 91,
+                        "durationMicroseconds": 134,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 21
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 17,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 41,
                         "errorMessage": "Cannot retrieve a non-object type by ID: client",
                         "functionName": "target",
                         "line": 39

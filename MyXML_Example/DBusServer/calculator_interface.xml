@@ -1,0 +1,9 @@
+<node>
+<interface name="org.example.Calculator">
+<method name="add">
+<arg direction="in" type="i" name="a"/>
+<arg direction="in" type="i" name="b"/>
+<arg direction="out" type="i" name="sum"/>
+</method>
+</interface>
+</node>

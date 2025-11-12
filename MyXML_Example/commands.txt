@@ -1,0 +1,2 @@
+qdbusxml2cpp -a calculator_adaptor calculator_interface.xml
+
